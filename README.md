@@ -1,4 +1,4 @@
-# Portfolio QA – Reyes Díaz  
+# Portfolio QA – Irene Arribas 
 Este portafolio web muestra mis proyectos de **QA**. Incluye un **formulario de contacto** conectado a una API que permite guardar los datos del formulario en la base de datos y mostrarlos en la página de Admin.
 
 🔗 [Ver Web Portfolio QA](https://irenearribasqa.github.io/QA-portfolio/)
