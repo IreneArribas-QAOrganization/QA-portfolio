@@ -1,7 +1,7 @@
 # Portfolio QA – Reyes Díaz  
 Este portafolio web muestra mis proyectos de **QA**. Incluye un **formulario de contacto** conectado a una API que permite guardar los datos del formulario en la base de datos y mostrarlos en la página de Admin.
 
-🔗 [Ver Web Portfolio QA](https://bootcamp-qa.github.io/template-portfolioqa/)
+🔗 [Ver Web Portfolio QA](https://irenearribasqa.github.io/QA-portfolio/)
 
 
 ## ⚙️ Funcionalidades principales
@@ -54,6 +54,6 @@ Se probó la **API del formulario de contacto** y se validó el correcto almacen
 ---
 
 ## 👩‍💻 Autora
-**Reyes Cuesta – QA Junior**  
-[🔗 LinkedIn](https://www.linkedin.com/in/reyescuesta)
+**Irene Arribas – QA Junior**  
+[🔗 LinkedIn](www.linkedin.com/in/irene-arribas-méndez-21b764207)
 
