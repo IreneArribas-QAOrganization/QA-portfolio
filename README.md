@@ -55,5 +55,5 @@ Se probó la **API del formulario de contacto** y se validó el correcto almacen
 
 ## 👩‍💻 Autora
 **Irene Arribas – QA Junior**  
-[🔗 LinkedIn](www.linkedin.com/in/irene-arribas-méndez-21b764207)
+[🔗 LinkedIn](https://www.linkedin.com/in/irene-arribas-méndez-21b764207)
 
