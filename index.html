@@ -145,7 +145,7 @@
   <h2 id="titulocontacto">
     <i class="fa fa-envelope"></i> Contact me
   </h2>
-  <form id="contactForm" onsubmit="return enviarFormulario(event)">
+  <form onsubmit="return enviarFormulario(event)">
     <input id="nombre" type="text" placeholder="Name" />
     <input id="email" type="email" placeholder="Email" required/>
     <select id="Subject" required>
@@ -155,7 +155,7 @@
       <option value="other">Other...</option>
     </select>
     <textarea id="mensaje" rows="4" placeholder="Enter your message" required maxlength="500"></textarea>
-    <button id="enviar" type="submit">
+    <button type="submit">Enviar</button>
       <i class="fa fa-paper-plane"></i> Submit
     </button>
   </form>
