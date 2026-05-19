@@ -12,7 +12,7 @@ function enviarFormulario(event) {
   var data = {
     name: document.getElementById('nombre').value, //campo name de la api, se obtiene del input del formulario con id nombre
     email: document.getElementById('email').value, //campo email de la api, se obtiene del input del formulario con id email
-    subject: document.getElementById('asunto').value, //campo subject de la api, se obtiene del input del formulario con id asunto
+    subject: document.getElementById('subject').value, //campo subject de la api, se obtiene del input del formulario con id asunto
     message: document.getElementById('mensaje').value //campo message de la api, se obtiene del input del formulario con id mensaje
   }
   postAPI(data);
