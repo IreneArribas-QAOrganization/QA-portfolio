@@ -5,7 +5,7 @@ SELECT * FROM formirenearribas;
 SELECT * FROM formirenearribas WHERE name = 'Ana';
 
 --Filtrar por nombre vacío
-SELECT * FROM formirenearribas WHERE name = NULL;
+SELECT * FROM formirenearribas WHERE name = IS NULL;
 
 --Filtrar por nombre que empiece por A
 SELECT * FROM formirenearribas WHERE name LIKE 'A%';
